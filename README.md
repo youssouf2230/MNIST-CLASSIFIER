@@ -5,7 +5,7 @@ Deux approches principales ont été mises en œuvre afin de comparer leurs perf
 
 ## Modèles simples :
 
-Construction et entraînement de réseaux de neurones entièrement connectés et convolutionnels (CNN) développés à partir de zéro avec TensorFlow/Keras.
+Construction et entraînement de réseaux de neurones entièrement connectés développés à partir de zéro avec TensorFlow/Keras.
 
 Analyse des performances selon la complexité du modèle et les paramètres d’entraînement.
 
